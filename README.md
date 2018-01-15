@@ -16,6 +16,7 @@ Our goal is to 1. In general across the world and Turkey
  - [OKSEF-7140 Website](http://oksef7140.com/)
  - [OKSEEF](http://okseef.org/)
  - [FRC](https://frc-events.firstinspires.org/2018)
+ - [FRC TURKEY](https://www.fikretyukselfoundation.com/)
 
 ### Social Media Links
 
@@ -30,4 +31,4 @@ Our goal is to 1. In general across the world and Turkey
 * Ümit KARADEMIR
 
 ### Sponsors
-* Oguzhan Ozkaya
+* Oguzhan OZKAYA Education [http://www.oguzhanozkayaegitim.com/](http://www.oguzhanozkayaegitim.com/)
