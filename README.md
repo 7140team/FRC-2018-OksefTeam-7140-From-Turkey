@@ -1,9 +1,6 @@
 ![logo](http://okseef.org/img/ozkaya.png)
 # FRC-2018-OksefTeam-7140-From-Turkey
 
-### Mentors
- * **Matt Price** - [*sowaky*](https://github.com/SoWaky)
-
 ## our Team
 ![image](https://user-images.githubusercontent.com/35407621/34909903-dd2ce3e2-f8bb-11e7-8bd6-17cf58561e03.jpg)
 
