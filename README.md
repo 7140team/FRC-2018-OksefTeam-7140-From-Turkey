@@ -8,7 +8,7 @@ The FRC 2018 programming repository for team 7140, Oksef
 
 ## Our Goals
 
-Our goal is to 1. In general across the world and Turkye
+Our goal is to 1. In general across the world and Turkey
 
 
 ### Important Links
