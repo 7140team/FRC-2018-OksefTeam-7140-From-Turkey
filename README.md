@@ -8,7 +8,7 @@ The FRC 2018 programming repository for team 7140, Oksef
 
 ## Our Goals
 
-### Our goal is to 1. In general across the world and Turkye
+Our goal is to 1. In general across the world and Turkye
 
 
 ### Important Links
@@ -25,7 +25,7 @@ The FRC 2018 programming repository for team 7140, Oksef
 
 ### Mentors 
 * Gürkan LOKMAN
-* Anil ATILAY999
+* Anil ATILAY
 * Tolga ORHANOGLU
 * Ümit KARADEMÝR
 
