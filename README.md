@@ -27,7 +27,7 @@ Our goal is to 1. In general across the world and Turkey
 * Gürkan LOKMAN
 * Anil ATILAY
 * Tolga ORHANOGLU
-* Ümit KARADEMÝR
+* Ümit KARADEMIR
 
 ### Sponsors
 * Oguzhan Ozkaya
