@@ -1,7 +1,9 @@
-![logo](http://okseef.org/img/ozkaya.png)
-# FRC-2018-OksefTeam-7140-From-Turkey
+![logo](http://okseef.org/img/logo.png)
 
-## our Team
+# PowerUp-2018
+The FRC 2018 programming repository for team 7140, Oksef
+
+## Our Team
 ![image](https://user-images.githubusercontent.com/35407621/34909903-dd2ce3e2-f8bb-11e7-8bd6-17cf58561e03.jpg)
 
 ## Our Goals
@@ -12,7 +14,8 @@
 ### Important Links
 
  - [OKSEF-7140 Website](http://oksef7140.com/)
- - [Oðuzhan ÖZKAYA Eðitim Kuruluþlarý](http://www.oguzhanozkayaegitim.com/)
+ - [OKSEEF](http://okseef.org/)
+ - [FRC](https://frc-events.firstinspires.org/2018)
 
 ### Social Media Links
 
@@ -20,12 +23,11 @@
  - [Twitter](http://twitter.com/oksef7140)
  - [Instagram](http://instagram.com/oksef_robotics)
 
- 
-### Contributors
- * **Oðuzhan ÖZKAYA** 
- * Anýl ATALAY 
- * Tolga 
- * Murat 
-
 ### Mentors 
 * Gürkan LOKMAN
+* Anil ATILAY999
+* Tolga ORHANOGLU
+* Ümit KARADEMÝR
+
+### Sponsors
+* Oguzhan Ozkaya
