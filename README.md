@@ -31,4 +31,4 @@ Our goal is to 1. In general across the world and Turkey
 * Ümit KARADEMIR
 
 ### Sponsors
-* Oguzhan OZKAYA Education [http://www.oguzhanozkayaegitim.com/](http://www.oguzhanozkayaegitim.com/)
+* Oguzhan OZKAYA Education - [http://www.oguzhanozkayaegitim.com/](http://www.oguzhanozkayaegitim.com/)
